@@ -10,9 +10,8 @@ GAME
 	"description"	    ""
 	"image"		        "swarm/objectivepics/invisible_threat1"
 	
-	
+	"author"			"Uradzimiru and Dmitriy"
 	"version"		    "1.0"
-	"author"			"Uradzimiru"
 	"website"		    "https://sites.google.com/site/swarmaddons/maps/invisible-threat"
 }
 
