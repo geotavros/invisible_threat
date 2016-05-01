@@ -1,0 +1,19 @@
+GAME
+{
+	"pos_x"             -3567 //-2543
+	"pos_y"             6980
+	"scale"             8.0
+	//"mapyoffset" 		"-60"
+	"material"          "vgui/swarm/overviews/asi_invisible_threat_overview"
+	"briefingmaterial"  "vgui/swarm/overviews/asi_invisible_threat_briefing"	
+	"missiontitle"		"Invisible Threat"
+	"description"	    ""
+	"image"		        "swarm/objectivepics/invisible_threat1"
+	
+	
+	"version"		    "1.0"
+	"author"			"Uradzimiru"
+	"website"		    "https://sites.google.com/site/swarmaddons/maps/invisible-threat"
+}
+
+// Overview: scale 8.00, pos_x -2543, pos_y 6980

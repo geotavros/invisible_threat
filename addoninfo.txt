@@ -1,0 +1,16 @@
+// The addoninfo.txt file is a metadata file that is required by all Source Engine Add-ons. 
+ 
+"AddonInfo"
+{
+     addonSteamAppID         630            
+     addontitle              "Invisible Threat"
+     addonversion            1.0
+     addontagline            ""
+     addonauthor             "Dmitriy"
+     addonSteamGroupName     "" 
+     addonauthorSteamID      ""
+     addonContent_Campaign   1 	            
+     addonURL0               "https://sites.google.com/site/swarmaddons/maps/invisible-threat"
+     addonDescription        "Invisible Threat Campaign"
+
+}
